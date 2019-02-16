@@ -1,0 +1,9 @@
+C:\Users\Dave\source\repos\Fibonacci.Solution\Fibonacci\obj\Debug\netcoreapp1.1\Fibonacci.csprojAssemblyReference.cache
+C:\Users\Dave\source\repos\Fibonacci.Solution\Fibonacci\obj\Debug\netcoreapp1.1\Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Dave\source\repos\Fibonacci.Solution\Fibonacci\obj\Debug\netcoreapp1.1\Fibonacci.AssemblyInfoInputs.cache
+C:\Users\Dave\source\repos\Fibonacci.Solution\Fibonacci\obj\Debug\netcoreapp1.1\Fibonacci.AssemblyInfo.cs
+C:\Users\Dave\source\repos\Fibonacci.Solution\Fibonacci\bin\Debug\netcoreapp1.1\Fibonacci.deps.json
+C:\Users\Dave\source\repos\Fibonacci.Solution\Fibonacci\bin\Debug\netcoreapp1.1\Fibonacci.dll
+C:\Users\Dave\source\repos\Fibonacci.Solution\Fibonacci\bin\Debug\netcoreapp1.1\Fibonacci.pdb
+C:\Users\Dave\source\repos\Fibonacci.Solution\Fibonacci\obj\Debug\netcoreapp1.1\Fibonacci.dll
+C:\Users\Dave\source\repos\Fibonacci.Solution\Fibonacci\obj\Debug\netcoreapp1.1\Fibonacci.pdb
